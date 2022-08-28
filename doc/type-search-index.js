@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Cell"},{"p":"<Unnamed>","l":"CellStatus"},{"p":"<Unnamed>","l":"GameBoardPanel"},{"p":"<Unnamed>","l":"Genrate_Sudoku"},{"p":"<Unnamed>","l":"Puzzle"},{"p":"<Unnamed>","l":"SudokuMain"}]

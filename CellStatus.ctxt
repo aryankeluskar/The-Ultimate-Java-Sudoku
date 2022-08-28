@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=CellStatus
+comment0.text=\n\ An\ enumeration\ of\ constants\ to\ represent\ the\ status\n\ of\ each\ cell.\n
+numComments=1

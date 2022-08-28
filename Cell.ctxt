@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\n\ The\ Cell\ class\ model\ the\ cells\ of\ the\ Sudoku\ puzzle,\ by\ customizing\ (subclass)\n\ the\ javax.swing.JTextField\ to\ include\ row/column,\ puzzle\ number\ and\ status.\n
+comment1.params=row\ col
+comment1.target=Cell(int,\ int)
+comment1.text=Constructor
+comment2.params=number\ isGiven
+comment2.target=void\ newGame(int,\ boolean)
+comment2.text=Reset\ this\ cell\ for\ a\ new\ game,\ given\ the\ puzzle\ number\ and\ isGiven
+comment3.params=
+comment3.target=void\ paint()
+comment3.text=This\ Cell\ (JTextField)\ paints\ itself\ based\ on\ its\ status
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameBoardPanel
+comment1.params=
+comment1.target=GameBoardPanel()
+comment1.text=Constructor
+comment2.params=
+comment2.target=void\ newGame()
+comment2.text=\n\ Generate\ a\ new\ puzzle;\ and\ reset\ the\ gameboard\ of\ cells\ based\ on\ the\ puzzle.\n\ You\ can\ call\ this\ method\ to\ start\ a\ new\ game.\n
+comment3.params=
+comment3.target=boolean\ isSolved()
+comment3.text=\n\ Return\ true\ if\ the\ puzzle\ is\ solved\n\ i.e.,\ none\ of\ the\ cell\ have\ status\ of\ TO_GUESS\ or\ WRONG_GUESS\n
+numComments=4
