@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: THE-MOST-SUDOKU-EVER-IN-JAVA!
+PURPOSE OF PROJECT: Our Submission to ISC Computer Science Project 2023
+VERSION or DATE: First developed on August 28, 2022. 
+HOW TO START THIS PROJECT: q
+gh repo clone aryankeluskar/The-Ultimate-Java-Sudoku
+javac SudokuMain.java
+java SudokuMain.java
+AUTHORS: Rudhr Shaji, Aryan Keluskar(@aryankeluskar)
