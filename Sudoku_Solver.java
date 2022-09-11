@@ -116,16 +116,10 @@ public class Sudoku_Solver
         {  
             for (int d = 0; d < n; d++)  
             {  
-                System.out.print(b[i][d]);  
-                System.out.print(" ");  
+                System.out.print(b[i][d]+" ");  
             }  
 
             System.out.print("\n");  
-
-            if ((i + 1) % (int)Math.sqrt(n) == 0)  
-            {  
-                System.out.print("");  
-            }  
         }  
     }  
 

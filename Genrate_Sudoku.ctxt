@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=Genrate_Sudoku
+comment0.text=Java\ program\ for\ Sudoku\ generator
 comment1.params=N\ K
 comment1.target=Genrate_Sudoku(int,\ int)
 comment10.params=i\ j

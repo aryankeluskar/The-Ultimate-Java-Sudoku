@@ -46,7 +46,9 @@ public class GameBoardPanel extends JPanel {
 
         super.setPreferredSize(new Dimension(BOARD_WIDTH, BOARD_HEIGHT));
     }
-
+    public void invokeShowSolution(){
+        puzzle.showSolution();
+    }
     /**
      * Generate a new puzzle; and reset the gameboard of cells based on the puzzle.
      * You can call this method to start a new game.
@@ -61,8 +63,9 @@ public class GameBoardPanel extends JPanel {
                 cells[row][col].newGame(puzzle.numbers[row][col], puzzle.isGiven[row][col]);
             }
         }
+        
     }
-
+    
     /**
      * Return true if the puzzle is solved
      * i.e., none of the cell have status of TO_GUESS or WRONG_GUESS
